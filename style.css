@@ -1,0 +1,46 @@
+body{
+    font-style: italic;
+    font-family: "Merriweather", system-ui ;
+}
+
+#cover{
+    margin: 0;
+    max-width: 100% ;
+    padding-left: 0;
+    background-color: #D2E0FB;
+}
+h1{
+    margin-bottom: 25px;
+    font-weight: 900;
+}
+.lead{
+    margin-bottom: 25px;
+}
+#my-skills{
+    max-width: 100%;
+    padding-left: 48px;
+    background-color: #FEF9D9;
+}
+#SKL{
+    margin-left: 20px;
+    margin-top: 40px;
+}
+#my-projects{
+    max-width: 100%;
+    padding-left: 48px;
+    background-color:   rgb(219, 213, 213);
+    
+}
+.first-list{
+    font-size: 1.3rem ;
+}
+#about-me{
+    max-width: 100%;
+    padding-left: 48px;
+    background-color:   #8EACCD;
+}
+#footer1{
+    max-width: 100%;
+    padding: 0;
+    background-color: rgb(219, 213, 213);
+}
